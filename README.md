@@ -13,8 +13,9 @@
   <b><a href="https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main">Défis d'hiver</a></b>
   •
   <b><a href="https://linktr.ee/rei.uqode">Linktree</a></b>
-  •
-  <a href="uqode@uqo.ca">Envoyez un courriel</a>
+  </br>
+  
+  <a href="mailto:uqode@uqo.ca">Envoyez un courriel</a>
 </h4>
 
 </br>
